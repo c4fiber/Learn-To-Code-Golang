@@ -60,4 +60,8 @@ func main() {
 	// interface, implicitly implemented
 	saySomething(p1)
 	saySomething(sal)
+
+	// exercise01
+	fmt.Println("===== Excercise01 =====")
+	composite_literal_slice_literal()
 }
